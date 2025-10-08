@@ -36,7 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=Project Outputs
 LogFolderPath=..\Panel Templates\Project Logs
-ManagedProjectGUID=
+ManagedProjectGUID=5D4FEEB3-7AEF-4B2D-9D9B-0BF2BA9812AC
+VaultGUID=01BF00D1-D866-4361-A7DB-CF8ECF4059DA
+ReleaseVaultName=Aliaksei Bohdan+addcndev
+ItemGUID=5D4FEEB3-7AEF-4B2D-9D9B-0BF2BA9812AC
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=C4A35253-9DFF-4DBA-AF74-BDB0D65D4EC5&ItemGUID=3475D6B9-F780-4166-BC38-412BCA9CDAE0&RevisionGUID=10A89EBC-577E-4529-BACD-6D27B3D4E8B0&"MainFilename=PCB_Project1.PrjPCB"
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
@@ -776,6 +779,11 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=AnsysEDB
+OutputName13=Ansys EDB
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -939,6 +947,15 @@ Type147=1
 Type148=1
 Type149=1
 Type150=1
+Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
+Type159=1
 
 [Difference Levels]
 Type1=1
@@ -1022,6 +1039,12 @@ Type78=1
 Type79=1
 Type80=1
 Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1178,6 +1201,15 @@ Type151=2
 Type152=1
 Type153=1
 Type154=0
+Type155=0
+Type156=0
+Type157=0
+Type158=0
+Type159=0
+Type160=0
+Type161=0
+Type162=1
+Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
